@@ -3,6 +3,9 @@
 
 Hi! I'm a Cyber Security Enthusiast passionate about protecting systems and solving security challenges. This repository is a collection of my hands-on projects showcasing my skills and experience in cybersecurity and Python development.
 
+## 🔗 Connect with Me
+//TBA
+
 ## 🔐 Projects
 
 ### 1. **Network Simulation with Packet Tracer**
